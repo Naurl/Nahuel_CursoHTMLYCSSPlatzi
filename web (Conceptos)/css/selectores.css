@@ -1,0 +1,26 @@
+/*
+TIPOS DE SELECTORES
+
+Selectores de ID: (no se pueden repetir tienen que ser unicos)
+#idDelStilo
+
+Usar en elementos no repetitivos
+
+
+Selectores de clase: (se pueden repetir)
+.claseDelStilo
+
+usar en elementos repetivos.
+
+*/
+
+#caja{
+
+}
+
+.caja{
+color: yellow;
+background: black;
+font-size: 10px;
+padding: 10px; /* Espacio interior de un elemento*/
+}
